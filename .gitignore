@@ -1,0 +1,10 @@
+.idea
+
+# enviroments
+.env
+
+# virtual env
+.venv
+venv/
+env/
+ENV/
